@@ -1,3 +1,3 @@
-console.log('¡Hola, Códica!');
+console.log("¡Hola, Códica!");
 import _ from "lodash";
-console.log(_.last(['one', 'two']));
+console.log(_.last(["one", "two"]));
